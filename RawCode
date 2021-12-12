@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+
+
+
+<div class="header">
+  <h1> &#10024 Productivity Simplified &#10024 </h1>
+</div>
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 1;
+}
+
+
+
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #987456;
+}
+
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+}
+
+
+
+
+.topnav a:hover {
+  background-color: white;
+  color: #808080;
+}
+
+
+.footer {
+  background-color: #987456;
+  padding: 10px;
+  text-align: right;
+  color: white
+ }  
+  
+
+</style>
+
+
+
+</style>
+</head>
+<body>
+
+
+
+ 
+
+</head>
+<body>
+
+
+
+<div class="topnav">
+  <a href="#">Home</a>
+  <a href="#">About</a>
+  <a href="#">Contact</a>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+<style>
+
+.header {
+  background-color: #ABEBC6; padding: 1px; text-align: center; font-family:Calibri; color:darkslategray;
+} 
+ 
+
+
+
+body {
+  background-color: cream; /* Hello fellow coders. This is a comment just to show that I know how to comment. */
+}
+
+
+
+
+</style>
+</head>
+<body>
+
+
+
+
+
+
+<img src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="Desk With Computer" width="100%" height="650">
+
+
+<p style="font-family:Arial Narrow"> Are you tired of watching YouTube videos and reading self-help books to boost your focus, motivation, and productivity? Then you've probably heard the same tips over and over again. "Sleep, eat healthy, stop procrastinating, take a nap" ...We've heard it all before. Here are some more efficient ways to <i> <b> actually </b> </i> be more productive. </p>
+
+
+<p style="font-family:Fantasy; text-align:center;"> <big> You will learn... </big> </p>
+
+
+
+
+
+
+<img src="https://images.unsplash.com/photo-1569230919100-d3fd5e1132f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80" alt="journal.jpg" width="33%" height="400">
+
+
+<img src="https://images.unsplash.com/photo-1629721671030-a83edbb11211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80" alt="dart_board.jpg" width="33%" height="400">
+
+
+<img src="https://images.unsplash.com/photo-1508558936510-0af1e3cccbab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="nature.jpg" width="33%" height="400">
+
+
+
+<marquee> 
+<p style="font-family:Fantasy; text-align:center;"> <big> ...how to build habits  </big> </p> </marquee>
+
+<marquee> 
+<p style="font-family:Fantasy; text-align:center;"> <big>...how to set goals </big> </p> </marquee> 
+
+<marquee> 
+<p style="font-family:Fantasy; text-align:center;"> <big>...and how to stay motivated </big> </p> </marquee> 
+
+
+<h2 style="font-family:Calibri; color:#21618C; text-align:center; background-color:#AED6F1"> Habit Building </h2> 
+
+<img src="https://images.unsplash.com/photo-1530303263041-b5ca33678f04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="Sticky Notes" width="100%" height="650">
+
+
+<h3 style="font-family:monospace"> 1.) Pair a new habit with an existing habit. </h3>
+
+<p style="font-family:Arial Narrow"> If you pair a new habit with a habit you already do on a regular basis, it will be much easier to complete. Your brain then does not need to build a new habit completely from scratch. It merely needs to build an association with the old habit.</p>
+
+
+<h3 style="font-family:monospace"> 2.) Associate habits with specific places. </h3>
+
+<p style="font-family:Arial Narrow"> People tend to associate activities with places. If you dedicate areas to specific habits, you will be more likely to carry them out. For example, it would be wise to associate your office only with work. </p>
+
+
+
+
+<h3 style="font-family:monospace"> 3.) Make good habit easier to do and bad habits harder to do. </h3>
+
+<p style="font-family:Arial Narrow"> If a habit requires a lot of time or energy, you will be less likely to do it. Put things associated with good habits in places that are easy to access, such as setting vitamins on your nightstand to take when you wake up. Similarly, when you are trying to get work done, place your phone in another room. </p>
+
+
+<h3 style="font-family:monospace"> 4.) Set reminders. </h3>
+
+<p style="font-family:Arial Narrow"> People are more forgetful than they realize. Also, it takes a long time for a habit to become automatic. Make your habit a notification, a sticky note, or something else that will remind you to complete the habit. </p>
+
+
+<h3 style="font-family:monospace"> 5.) Write an implementation intention. </h3>
+
+<p style="font-family:Arial Narrow"> Writing down an implementation intention is when you write down when and where you will carry out a habit. This increases your chance of doing a habit, but it only works if you focus on one habit at a time. </p>
+
+
+<h3 style="font-family:monospace"> 6.) Use the one minute rule. </h3>
+
+<p style="font-family:Arial Narrow"> Aren't habits time-consuming? Who has the time to randomly start working out for an hour everyday? Instead of trying to implement time-consuming habits randomly, try to implement them slowly. Try doing it the habit for one minute for a week, then slowly increase your time doing it. This will make it easier to commit. </p>
+
+
+<h3 style="font-family:monospace"> 7.) Have an instigation habit. </h3>
+
+<p style="font-family:Arial Narrow"> An instigation habit is a habit you have before the habit you want to do. It's what triggers you to carry out a habit. For example, if a person wanted to start flossing their teeth everyday, their instigation habit would probably be brushing their teeth. The stronger the instigation habit, the more likely a person's new habit will be. Instigation habits builds momentum for the new habit. </p>
+
+
+<h3 style="font-family:monospace"> 8.) Align your identity with your habits. </h3>
+
+<p style="font-family:Arial Narrow"> People use their identity to shape how they act. Whatever you believe you are, you will act like it. For example, if you often say things like, "I'm so lazy, I can't imagine working out everyday," you will find it very difficult to have a work-out routine. Having an identity opposite to what you want your habits to be creates mental resistance. This makes it harder to carry out the habit and to enjoy it. </p>
+
+
+<h3 style="font-family:monospace"> 9.) Create a habit menu. </h3>
+
+<p style="font-family:Arial Narrow"> Write down a few different versions of the habit you want to carry out. Some habits, such as taking vitamins everyday, are a bit more difficult to "spice up." However, take something like exercise. Instead of allowing your only form of exercise to be cardio at the gym, give yourself a few different options. For example, maybe your list of exercises could be "cardio at the gym, taking a walk on a trail, and yoga at home." This gives yourself more options and more leniency, preventing you from opting out of doing your habit. </p>
+
+
+<!-- Wow! Another comment! -->
+
+
+<h2 style="font-family:Calibri; color:#D81B60; text-align:center; background-color:#F8BBD0"> Setting Goals </h2>
+
+
+<img src="https://images.unsplash.com/photo-1506784881475-0e408bbca849?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=868&q=80" alt="Goal Planner" width="100%" height="650">
+
+
+
+
+<h3 style="font-family:monospace"> 1.) Set several due dates. </h3>
+
+<p style="font-family:Arial Narrow"> If you are a procrastinator, you are very fond of the laser focus you get right before a due date. However, this isn't always the best idea. If you set several due dates, you will have more consistent progress. For example, if a paper is due in a month, don't just set a due date for the paper. Set due dates for when you want to draft, write the first half of it, write the second half of it, edit, and proofread. This way, even if you do things at the last minute before the due dates you set, you are far better off than writing the entire paper the night before. </p>
+
+
+
+<h3 style="font-family:monospace"> 2.) Set milestones. </h3>
+
+<p style="font-family:Arial Narrow"> Big goals can seem impossible, unmanageable, or too ambitious. This can cause a person to feel overwhelmed to even discouraged from trying. However, setting milestones can help a person to acknowledge the progress they are making towards a big goal. For example, if a person wants to lose 50 pounds, they should set a milestone to congratulate themself after every 5 or 10 pounds. </p>
+
+
+<h3 style="font-family:monospace"> 3.) Make your goals public. </h3>
+
+<p style="font-family:Arial Narrow"> Accountability is a great motivator to following through with goals. Whether you tell friends about it or have a social media account for it, make sure you cannot silently fail at your goal. </p>
+
+<h3 style="font-family:monospace"> 4.) Don't talk about your goals. </h3>
+
+<p style="font-family:Arial Narrow"> The more people you tell about your goals, the more accomplished you will feel about them. Simply telling people about them gives your brain the satisfaction it would have as if the goals were already completed. This makes you less likely to want to complete the goal. </p>
+
+
+<h3 style="font-family:monospace"> 5.) Be specific with your goals. </h3>
+
+<p style="font-family:Arial Narrow"> Think back to last New Year's. You may have written some goals like "be healthier," but what exactly does that mean? When thinking about goals, you need to be specific. This allows you to create an action plan to achieve them. A more precise goal would be something like "limit takeout food to once a month." </p>
+
+
+<h3 style="font-family:monospace"> 6.) Utilize the progress principle. </h3>
+
+<p style="font-family:Arial Narrow"> The progress principle explains that the more you do, the more you will do in the future. The more meaningful work a person gets done during the day, the more meaningful wins a person will have. To utilize the principle, set small goals that contribute to one large goal. </p>
+
+
+<h3 style="font-family:monospace"> 7.) Leave today's work on a cliffhanger. </h3>
+
+<p style="font-family:Arial Narrow"> When completing work, leave yourself at a point where it is easy to pick up the next day. This makes it much easier to get started the next day. </p>
+
+
+<h3 style="font-family:monospace"> 8.) Give yourself constant reminders of the goal. </h3>
+
+<p style="font-family:Arial Narrow"> Set reminders on your phone of the goal, slap post-it notes everywhere, set your wallpaper to your goal...do not allow yourself to forget about your goal. The more you are reminded about it, the more you will work toward achieveing it. </p>
+
+
+<h3 style="font-family:monospace"> 9.) Stay in motion. </h3>
+
+<p style="font-family:Arial Narrow"> A body in motion stays in motion and a body at rest stays at rest. It's easy to come home after a long day of work and do nothing. However, if you stop yourself from sitting down and relaxing, it will be much easier to keep the flow you had from when you were working. </p>
+
+
+<h3 style="font-family:monospace"> 10.) Take <i> restorative </i> breaks. </h3>
+
+<p style="font-family:Arial Narrow"> A body in motion stays in motion, but that doesn't mean work until you burn out. Pre-plan your breaks and use them to regain your focus and clear your head. Breaks are meant to replenish your energy, so you want to be sure to avoid activities that seem restorative, but are not. Some activities you want to avoid are scrolling social media, watching a video or tv, and texting. Some restorative activities are taking a walk, eating a healthy snack, getting some water, and meditating. </p>
+
+
+
+
+
+
+
+
+<h2 style="font-family:Calibri; color:#FDD835; text-align:center; background-color:#FFF9C4"> Motivation </h2>
+
+
+
+<img src="https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=871&q=80" alt="Coffee Mug" width="100%" height="650">
+
+
+
+
+
+<h3 style="font-family:monospace"> 1.) Bore yourself into being productive. </h3>
+
+<p style="font-family:Arial Narrow"> Boredom is a great motivator. For instance, if you have chores to do but routinely can't stop scrolling through social media, set a timer on your phone to lock you out of the app after an allotted time. Get away from whatever is distracting you. Power off your phone or turn off the television. Eventually, you will be so bored that you would rather do the laundry than do nothing. </p>
+
+
+<h3 style="font-family:monospace"> 2.) Watch someone else being productive. </h3>
+
+<p style="font-family:Arial Narrow"> Other people's actions influence our own. If everyone else in your house is cleaning, you are more likely to clean as well. You can also watch others who are doing what you want to do. You can watch YouTubers cleaning their house, go to a study hall where other students are studying, and so on. </p>
+
+
+<h3 style="font-family:monospace"> 3.) Force yourself to work for just five minutes. </h3>
+
+<p style="font-family:Arial Narrow"> Getting started is often the hardest part of any task. Force yourself to do the task for just five minutes. Usually, you will find that you want to continue, as the task wasn't as daunting as it seemed. But if you don't want to continue, at least you worked on it for five minutes. </p>
+
+
+<h3 style="font-family:monospace"> 4.) Give yourself the option of not doing the task. </h3>
+
+<p style="font-family:Arial Narrow"> Allow yourself to do the task, or do something else. For example, if you have to drop off a package, give yourself another option, such as doing a seven-minute high-intensity workout. This way, you are doing something good with either option you pick, but hopefully, it will motivate you to do the task you need to accomplish. </p>
+
+
+<h3 style="font-family:monospace"> 5.) Create an anti-vision. </h3>
+
+<p style="font-family:Arial Narrow"> Instead of motivating yourself by thinking of what you want your life to look like, think of the opposite. Think of the absolute worst version of yourself and your life. Think of all the things you would need to do to make that happen. This will inspire you to do the opposite, and carry out your goals and habits. </p>
+
+<h3 style="font-family:monospace"> 6.) Think about the future you, not the present you. </h3>
+
+<p style="font-family:Arial Narrow"> Your brain is always thinking about what is most convenient and comfortable for you now. The issue with this is it can lead to some poor decisions. Maybe you choose a donut over a yogurt, sleeping in rather than waking up, or watching tv over working out. If you think about what is best for your future self, you will see that the other decision is more appealing, which makes it easier to select. </p>
+
+
+<h3 style="font-family:monospace"> 7.) Say your next actions outloud. </h3>
+
+<p style="font-family:Arial Narrow"> Think about what you need to do, and talk yourself through it. For example, if you have schoolwork to get done, say outloud, "I am going to go to sit at my desk." Start so small that it would seem silly if you did not do it. Then, speak the next action. For example, say, "Now, I will open my laptop and press the power button." When you say your actions outloud, you might realize the action isn't as daunting as it once seemed. </p>
+
+
+<h3 style="font-family:monospace"> 8.) Use the five second rule. </h3>
+
+<p style="font-family:Arial Narrow"> Count down. Say, "Five, four, three, two, one." When you get down to one, you must take action. If you have an impulse to act, you must act upon it or you will no longer want to do it. The hardest part is starting, so count from 5 to 1 and get started. </p>
+
+
+<h3 style="font-family:monospace"> 9.) Try body doubling. </h3>
+
+<p style="font-family:Arial Narrow"> Work on a task while someone else is in the same room with you. Having another person present, even while doing a completely different task, can help you to achieve your task, as it boosts your motivation. </p>
+
+<h3 style="font-family:monospace"> 10.) Replenish your willpower. </h3>
+
+<p style="font-family:Arial Narrow"> Willpower, just like energy, depletes throughout the day. Studies show that spending a day in nature or doing something you enjoy helps to replenish your willpower. </p>
+
+<h3 style="font-family:monospace"> 11.) Picture the end result. </h3>
+
+<p style="font-family:Arial Narrow"> The brain cannot tell the difference between reality and your imagination. Take advantage of this by imagining the end result of what you want to accomplish and imagine yourself enjoying the task. This will help you to actually enjoy the task. </p>
+
+</body>
+
+
+ 
+  
+  
+<div class="footer">
+  <p></p>
+  
+
+ <address>
+Written by Rachael Switliski.<br>
+For business inquiry, please email<br>
+rswitliski@mail.dccc.edu.<br>
+Thank you.<br>
+</address>
+
+
+
+<!-- This website was created using HTML and CSS. --> 
+
+
+
+</body>
+</html>
